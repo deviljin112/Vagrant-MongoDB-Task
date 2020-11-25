@@ -33,7 +33,7 @@ Research how this is done. But consider how you can automate the editing of this
 * Create VM and Mongod is working
 * MongoDB 3.2.20 is isntalled
 
-## Extra time tomorrow -- Try to research and see if you can do it!
+## Extra time tomorrow -- Try to research and see if you can do it
 
 * MongoDB to listen on 0.0.0.0 on port 27017
 * Work with command "vagrant up"
